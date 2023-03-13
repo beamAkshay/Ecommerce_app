@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408860616243",
+    "project_id": "beam-commerce-30",
+    "storage_bucket": "beam-commerce-30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408860616243:android:820ce82e18f0227369e546",
+        "android_client_info": {
+          "package_name": "com.beaminnovate.beamcommerce3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408860616243-hl9fso7qbn4bge2n6vithscm3mcv7f52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclghwiPnf7Svg5adLa5w90RyzTrLAcQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408860616243-hl9fso7qbn4bge2n6vithscm3mcv7f52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
